@@ -42,8 +42,7 @@ header{
     left: 5px;
     border-style: none;
     position: relative;
-
-    margin: 10px auto 0 ;
+    margin: 10px auto 0 6px ;
     height: 50px;
     width: 70px;
 }
@@ -557,7 +556,7 @@ footer .boxa{
         left: 5px;
         border-style: none;
         position: relative;
-        margin-top: 10px;
+        margin: 10px auto 0;
         height: 45px;
         width: 60px;
     }
