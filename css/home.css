@@ -345,7 +345,7 @@ input[type=email],  input[type=text], select, textarea {
   }
   
   input[type=submit] {
-    background-color: red;
+    background-color: blue;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -353,11 +353,7 @@ input[type=email],  input[type=text], select, textarea {
     cursor: pointer;
     /* float: left; */
     margin-left: 5%;
-  }
-  
-  input[type=submit]:hover {
-    background-color: rgb(255, 72, 72);
-  }
+}
   
   .contact-content {
     border-radius: 5px;
